@@ -29,3 +29,6 @@ public class BinarySearch_02 {
         }
     }
 }
+
+//Time Complexity: O(1) in best case and O(log n) in the average and worst cases.
+//Space Complexity: O(1) for the iterative version, and O(log n) for the recursive version.
