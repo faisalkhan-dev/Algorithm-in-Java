@@ -1,4 +1,4 @@
-public class InterpolationSearch {
+public class InterpolationSearch_03 {
 
     //Recursive implementation
     static int InterpolationSearch(int[] arr,int low,int high,int value){
